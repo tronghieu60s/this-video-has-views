@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+### 2020 Fix Error Client Secret: https://stackoverflow.com/questions/43639565/typeerror-cannot-read-property-client-secret-of-undefined
+
 Counts Video Youtube in Title: This Video Has X Views
 
   - Nodejs
