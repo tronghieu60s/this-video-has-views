@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-### 2020 Fix Error Client Secret: https://stackoverflow.com/questions/43639565/typeerror-cannot-read-property-client-secret-of-undefined
+### 2020 Fix Create Client Secret: https://stackoverflow.com/a/62309940/9724078
 
 Counts Video Youtube in Title: This Video Has X Views
 
